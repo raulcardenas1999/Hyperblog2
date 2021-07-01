@@ -4,3 +4,5 @@ Raul Cardenas tienes 25 años y nació en Colombia,
 viviendo en todo el mundo
 
 hoy hablaremos de su vida y obra maestra
+
+Vamos a ver si funciona Git reset HEAD
