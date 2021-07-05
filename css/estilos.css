@@ -40,7 +40,15 @@ body {
   font-size: 20px;
 }
 
+<<<<<<< HEAD
 #post {
   background: white;
   padding: 1em;
+=======
+#footer {
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 00.5em;
+>>>>>>> 9029ed1f7dd7bfdef690cd467a6f530a71a8e49b
 }
